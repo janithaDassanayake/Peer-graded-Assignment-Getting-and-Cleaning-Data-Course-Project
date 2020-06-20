@@ -1,6 +1,6 @@
-Getting and Cleaning Data - peer assessment project
+**Getting and Cleaning Data - peer assessment project**
 
-The original data was transformed by
+**The original data was transformed by**
 
 Merging the training and the test sets to create one data set.
 Extracting only the measurements on the mean and standard deviation for each measurement.
@@ -11,13 +11,13 @@ About R script
 
 File with R code "run_analysis.R" perform 5 following steps (in accordance assigned task of course work)
 
-Data
+**Data**
 
 The Tidy.txt data file is a text file, containing space-separated values.
 
 The first row contains the names of the variables, which are listed and described in the Variables section, and the following rows contain the values of these variables.
 
-About variables:
+**About variables:**
 
 featureNames - Assign data in features.txt
 
